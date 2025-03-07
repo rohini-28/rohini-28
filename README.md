@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! 👋 I'm Rohini  
 
-<!--
-**rohini-28/rohini-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Kicking off my GitHub journey and aiming for consistent growth!
 
-Here are some ideas to get you started:
+📚 Currently learning **MERN Stack (MongoDB, Express, React, Node.js)** and exploring new technologies.  
+🚀 Excited to share projects and learn from the community.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me  
+- 🔥 Passionate about coding and problem-solving.  
+- 📌 Learning and improving every day.  
+- 🎯 Working towards my personal and professional goals.  
+
+## 📌 What's Next?  
+- Building real-world projects using MERN  
+- Exploring authentication, APIs, and deployment  
+- Sharing my progress and learning with the community  
+
+## 📫 Connect with Me  
+[GitHub](https://github.com/rohini-28)  
+
